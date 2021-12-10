@@ -1,0 +1,16 @@
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(12.1)\Task(12.1)\bin\Debug\net5.0\Task(12.1).exe
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(12.1)\Task(12.1)\bin\Debug\net5.0\Task(12.1).deps.json
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(12.1)\Task(12.1)\bin\Debug\net5.0\Task(12.1).runtimeconfig.json
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(12.1)\Task(12.1)\bin\Debug\net5.0\Task(12.1).runtimeconfig.dev.json
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(12.1)\Task(12.1)\bin\Debug\net5.0\Task(12.1).dll
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(12.1)\Task(12.1)\bin\Debug\net5.0\ref\Task(12.1).dll
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(12.1)\Task(12.1)\bin\Debug\net5.0\Task(12.1).pdb
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(12.1)\Task(12.1)\obj\Debug\net5.0\Task(12.1).csproj.AssemblyReference.cache
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(12.1)\Task(12.1)\obj\Debug\net5.0\Task(12.1).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(12.1)\Task(12.1)\obj\Debug\net5.0\Task(12.1).AssemblyInfoInputs.cache
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(12.1)\Task(12.1)\obj\Debug\net5.0\Task(12.1).AssemblyInfo.cs
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(12.1)\Task(12.1)\obj\Debug\net5.0\Task(12.1).csproj.CoreCompileInputs.cache
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(12.1)\Task(12.1)\obj\Debug\net5.0\Task(12.1).dll
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(12.1)\Task(12.1)\obj\Debug\net5.0\ref\Task(12.1).dll
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(12.1)\Task(12.1)\obj\Debug\net5.0\Task(12.1).pdb
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(12.1)\Task(12.1)\obj\Debug\net5.0\Task(12.1).genruntimeconfig.cache
